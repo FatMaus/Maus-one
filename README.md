@@ -1,2 +1,2 @@
 # Maus-one
-python practice
+practice
